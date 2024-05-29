@@ -59,7 +59,6 @@ If you want to get more features, go PRO with [Material Dashboard 2 PRO React No
 [<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.png" width="60" height="60" />](https://github.com/TuleshGosai/Crud-Operation)
 
 |  React + NodeJS                                                                                                                                                                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Dashboard React NodeJS API](https://github.com/TuleshGosai/Crud-Operation/blob/master/images/github-dashboard.jpg)](https://github.com/TuleshGosai/Crud-Operation/blob/master/images/github-dashboard.jpg) |
 
 ## Demo
