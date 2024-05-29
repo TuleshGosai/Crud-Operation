@@ -1,9 +1,9 @@
-# [Material Dashboard 2 React NodeJS API](https://material-dashboard-react-nodejs.creative-tim.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Material%20Dashboard%20%20PRO%20React%20made%20by%20%40CreativeTim%20and%20%40UPDIVISION%20%23webdesign%20%23dashboard%20%23react%20%23mui&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-dashboard-react-node)
+# [Crud operation using (MERN) Stack](https://material-dashboard-react-nodejs.creative-tim.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Material%20Dashboard%20%20PRO%20React%20made%20by%20%40CreativeTim%20and%20%40UPDIVISION%20%23webdesign%20%23dashboard%20%23react%20%23mui&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-dashboard-react-node)
 
-![version](https://img.shields.io/badge/version-2.1.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/material-dashboard-react-nodejs/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react.svg)](https://github.com/creativetimofficial/material-dashboard-react-nodejs/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/TuleshGosai/Crud-Operation.svg)](https://github.com/TuleshGosai/Crud-Operation/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/TuleshGosai/Crud-Operation.svg)](https://github.com/TuleshGosai/Crud-Operation/issues?q=is%3Aissue+is%3Aclosed)
 
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/157/original/react-material-dashboard-nodejs.jpg?1664786816"/>](https://www.creative-tim.com/product/material-dashboard-react-nodejs)
+[<img src="https://github.com/TuleshGosai/Crud-Operation/blob/master/images/github-dashboard.jpg"/>](https://github.com/TuleshGosai/Crud-Operation)
 
 **Documentation built by Developers**
 
@@ -15,12 +15,12 @@ You can read more about the [documentation here](https://material-dashboard-reac
 
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
-View [example pages here](https://material-dashboard-react-nodejs.creative-tim.com/auth/login).
+View [example pages here](https://github.com/TuleshGosai/Crud-Operation/blob/master/react-project/public/images/login.png).
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/material-dashboard-react-nodejs)
-- Check [FAQ Page](https://www.creative-tim.com/faq)
+- View [Github Repository](https://github.com/TuleshGosai/Crud-Operation)
+- Check [FAQ Page](https://github.com/TuleshGosai/Crud-Operation)
 
 #### Special thanks
 
@@ -32,7 +32,7 @@ During the development of this dashboard, we have used many existing resources f
 
 Let us know your thoughts below. And good luck with development!
 
-If you want to get more features, go PRO with [Material Dashboard 2 PRO React NodeJS API](https://www.creative-tim.com/product/material-dashboard-pro-react-nodejs).
+If you want to get more features, go PRO with [Material Dashboard 2 PRO React NodeJS API](https://github.com/TuleshGosai/Crud-Operation).
 
 ## Table of Contents
 
@@ -55,18 +55,11 @@ If you want to get more features, go PRO with [Material Dashboard 2 PRO React No
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react?ref=readme-mdpr)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/react-material-dashboard-pro-laravel?ref=readme-mdpr)
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-pro-react-nodejs?ref=readme-mdpr)
-
-| React + Laravel JSON:API                                                                                                                                                                                                                                                   | React + NodeJS                                                                                                                                                                                                                                                               |
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.png" width="60" height="60" />](https://github.com/TuleshGosai/Crud-Operation)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.png" width="60" height="60" />](https://github.com/TuleshGosai/Crud-Operation)                                                                                                                                                                                                                                                | React + NodeJS                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Material Dashboard 2 React Laravel JSON:API](https://s3.amazonaws.com/creativetim_bucket/products/686/original/react-material-dashboard-laravel.jpg?1664783836)](https://react-material-dashboard-laravel.creative-tim.com/auth/login?ref=readme-mdpr) | [![Material Dashboard 2 React NodeJS API](https://s3.amazonaws.com/creativetim_bucket/products/157/original/react-material-dashboard-nodejs.jpg?1664786816)](https://material-dashboard-react-nodejs.creative-tim.com/auth/login?ref=readme-mdpr) |
-
-
-| React                                                                                                                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<img src="https://s3.amazonaws.com/creativetim_bucket/products/71/original/material-dashboard-react.jpg?1638950990" width="400" />](https://demos.creative-tim.com/material-dashboard-react/#/dashboard?ref=readme-mdpr) |
+|[![Dashboard React NodeJS API](https://github.com/TuleshGosai/Crud-Operation/blob/master/images/github-dashboard.jpg)](https://github.com/TuleshGosai/Crud-Operation/blob/master/images/github-dashboard.jpg) |
+|
 
 ## Demo
 
@@ -694,7 +687,7 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation is [here](https://material-dashboard-react-node-docs.creative-tim.com/react/quick-start/material-dashboard-node/?ref=readme-mdr)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-mdr)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-mdr)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-react-nodejs/issues)
+- Issues: [Github Issues Page](https://github.com/TuleshGosai/Crud-Operation/issues)
 
 ## Reporting Issues
 
