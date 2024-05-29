@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to `React Material Dashboard NodeJs`  will be documented in this file.
+All notable changes to `Crud operation using (MERN) Stack`  will be documented in this file.
 
 ## Version 1.0.0
 
