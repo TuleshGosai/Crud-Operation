@@ -13,7 +13,7 @@ const ReseedAction = () => {
   async function seedDB() {
     await clear();
     const salt = await bcrypt.genSalt(10);
-    const hashPassword = await bcrypt.hash("secret", salt);
+    const hashPassword = await bcrypt.hash("Admin", salt);
 
     const user = {
       _id: mongoose.Types.ObjectId(1),

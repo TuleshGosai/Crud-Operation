@@ -114,11 +114,11 @@ function BasicLayout({ image, children }) {
                               >
                                 Username{" "}
                                 <Typography variant="span" fontWeight="700">
-                                  admin@jsonapi.com
+                                  admin@gmail.com
                                 </Typography>{" "}
                                 with password{" "}
                                 <Typography variant="span" fontWeight="700">
-                                  secret
+                                  Admin
                                 </Typography>
                               </Typography>
                             }

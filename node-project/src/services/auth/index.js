@@ -25,7 +25,7 @@ export const loginRouteHandler = async (req, res, email, password) => {
       errors: [{ detail: "Credentials don't match any existing users" }],
     });
   } else {
-    const validPassword = password === foundUser.password;
+    const validPassword = await bcrypt.compare(password, foundUser.password);
     if (validPassword) {
       // Generate JWT token
       const token = jwt.sign(

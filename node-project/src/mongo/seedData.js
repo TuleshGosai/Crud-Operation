@@ -4,14 +4,13 @@ import { userModel } from "../schemas/user.schema.js";
 import { dbConnect } from "../mongo/index.js";
 
 async function seedDB() {
-  dbConnect();
+  await dbConnect();
   const salt = await bcrypt.genSalt(10);
-  const hashPassword = await bcrypt.hash("secret", salt);
+  const hashPassword = await bcrypt.hash("Admin", salt);
 
   const user = {
-    _id: mongoose.Types.ObjectId(1),
     name: "Admin",
-    email: "admin@jsonapi.com",
+    email: "admin@gmail.com",
     password: hashPassword,
     created_at: new Date(),
     profile_image: "../../images/admin.jpg",

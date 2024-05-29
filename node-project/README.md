@@ -45,7 +45,7 @@ To install the project you need to have version 16 of Node.js and npm version 8.
 
 ## Usage
 
-For a token-based authentication `passport` and `passport-jwt` modules were used. Also for managing the database, `mongoose` helped. Two scripts seeding and clearing the collections and documents are found in the `/src/mongo`. The FREE version has a single table of `users` with a default user `admin@jsonapi.com` with the password `secret`.
+For a token-based authentication `passport` and `passport-jwt` modules were used. Also for managing the database, `mongoose` helped. Two scripts seeding and clearing the collections and documents are found in the `/src/mongo`. The FREE version has a single table of `users` with a default user `admin@jsonapi.com` with the password `Admin`.
 
 To migrate and seed the tables the commands are:
 - npm run seed

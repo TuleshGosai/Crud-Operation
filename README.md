@@ -118,7 +118,7 @@ The documentation for the ExpressJS API is hosted [here](https://documenter.getp
 
 ## Login
 
-If a user is not logged in can access only the authentication pages: Login, Register and Forgot Password. By default, there **admin@jsonapi.com** with password **secret** as credentials.
+If a user is not logged in can access only the authentication pages: Login, Register and Forgot Password. By default, there **admin@gmail.com** with password **Admin** as credentials.
 For authentication context and protected routes were used to keep track of the state of the users. Axios together with an http service and helped by an auth service and crud service handled the requests. The **/src/service** keeps the logic of the services while **/src/context** has the logic for the different contexts used, including the authentication context.
 
 In the **/src/auth/login/index.js** is the logic for logging in an existing user:

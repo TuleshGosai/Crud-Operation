@@ -38,7 +38,7 @@ function Login() {
 
   const [inputs, setInputs] = useState({
     email: "admin@gmail.com",
-    password: "Admin@123",
+    password: "Admin",
   });
 
   const [errors, setErrors] = useState({
@@ -68,7 +68,7 @@ function Login() {
       return;
     }
 
-    if (inputs.password.trim().length < 6) {
+    if (inputs.password.trim().length < 4) {
       setErrors({ ...errors, passwordError: true });
       return;
     }

@@ -3,7 +3,7 @@ import { userModel } from "../schemas/user.schema.js";
 import { dbConnect } from "../mongo/index.js";
 
 async function clear() {
-  dbConnect();
+  await dbConnect();
   await userModel.deleteMany({});
   console.log("DB cleared");
 }
