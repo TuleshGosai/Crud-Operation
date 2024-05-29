@@ -1,4 +1,4 @@
-# [Crud operation using (MERN) Stack](https://github.com/TuleshGosai/Crud-Operation) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Material%20Dashboard%20%20PRO%20React%20made%20by%20%40CreativeTim%20and%20%40UPDIVISION%20%23webdesign%20%23dashboard%20%23react%20%23mui&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-dashboard-react-node)
+# [Crud operation using (MERN) Stack](https://github.com/TuleshGosai/Crud-Operation) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://github.com/TuleshGosai/Crud-Operation)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/TuleshGosai/Crud-Operation.svg)](https://github.com/TuleshGosai/Crud-Operation/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/TuleshGosai/Crud-Operation.svg)](https://github.com/TuleshGosai/Crud-Operation/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -15,7 +15,7 @@ You can read more about the [documentation here](https://material-dashboard-reac
 
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
 
-View [example pages here](https://github.com/TuleshGosai/Crud-Operation/blob/master/react-project/public/images/login.png).
+View [example pages here](https://github.com/TuleshGosai/Crud-Operation).
 
 **HELPFUL LINKS**
 
@@ -32,7 +32,7 @@ During the development of this dashboard, we have used many existing resources f
 
 Let us know your thoughts below. And good luck with development!
 
-If you want to get more features, go PRO with [Material Dashboard 2 PRO React NodeJS API](https://github.com/TuleshGosai/Crud-Operation).
+If you want to get more features, go PRO with [Dashboard React NodeJS API](https://github.com/TuleshGosai/Crud-Operation).
 
 ## Table of Contents
 
@@ -51,7 +51,6 @@ If you want to get more features, go PRO with [Material Dashboard 2 PRO React No
 - [Reporting Issues](#reporting-issues)
 - [Technical Support or Questions](#technical-support-or-questions)
 - [Licensing](#licensing)
-- [Useful Links](#useful-links)
 
 ## Versions
 
@@ -66,13 +65,13 @@ If you want to get more features, go PRO with [Material Dashboard 2 PRO React No
 
 | Register                                                                                                                                       | Login                                                                                                                                    | Dashboard                                                                                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="react-project/public/images/register.png" width="322" />](https://material-dashboard-react-nodejs.creative-tim.com/auth/register) | [<img src="react-project/public/images/login.png" width="322" />](https://material-dashboard-react-nodejs.creative-tim.com/auth/login) | [<img src="react-project/public/images/dashboard.png" width="322" />](https://material-dashboard-react-nodejs.creative-tim.com/dashboard) |
+| [<img src="react-project/public/images/register.png" width="322" />](https://github.com/TuleshGosai/Crud-Operation) | [<img src="react-project/public/images/login.png" width="322" />](https://github.com/TuleshGosai/Crud-Operation) | [<img src="react-project/public/images/dashboard.png" width="322" />](https://github.com/TuleshGosai/Crud-Operation) |
 
 | Forgot Password Page                                                                                                                                         | Reset Password Page                                                                                                                    | Profile Page                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="react-project/public/images/forgot-password.png" width="320" />](https://material-dashboard-react-nodejs.creative-tim.com/auth/forgot-password) | [<img src="react-project/public/images/reset-password.png" width="312" />](https://material-dashboard-react-nodejs.creative-tim.com) | [<img src="react-project/public/images/profile.png" width="330" />](https://material-dashboard-react-nodejs.creative-tim.com/user-profile) |
+| [<img src="react-project/public/images/forgot-password.png" width="320" />](https://github.com/TuleshGosai/Crud-Operation) | [<img src="react-project/public/images/reset-password.png" width="312" />](https://github.com/TuleshGosai/Crud-Operation) | [<img src="react-project/public/images/profile.png" width="330" />](https://github.com/TuleshGosai/Crud-Operation) |
 
-[View More](https://react-material-dashboard-laravel.creative-tim.com)
+[View More](https://github.com/TuleshGosai/Crud-Operation)
 
 ## Quick start
 
@@ -106,7 +105,7 @@ To install the project you need to have version 16 of Node.js and npm version 8.
 
 ## Documentation
 
-The documentation for the Material Dashboard is hosted at our [website](https://material-dashboard-react-node-docs.creative-tim.com/react/overview/material-dashboard-node/?ref=readme-mdpr).
+The documentation for the Dashboard is hosted at our [website](https://github.com/TuleshGosai/Crud-Operation).
 
 The documentation for the ExpressJS API is hosted [here](https://documenter.getpostman.com/view/8138626/Uze1virp).
 
@@ -683,63 +682,37 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- [Live Preview](https://github.com/teamupdivision/material-dashboard-react-node-free?ref=readme-mdr)
-- [Download Page]https://www.creative-tim.com/product/material-dashboard-react-nodejs?ref=readme-mdr)
-- Documentation is [here](https://material-dashboard-react-node-docs.creative-tim.com/react/quick-start/material-dashboard-node/?ref=readme-mdr)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-mdr)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-mdr)
+- [Live Preview](https://github.com/TuleshGosai/Crud-Operation)
+- [Download Page](https://github.com/TuleshGosai/Crud-Operation)
+- Documentation is [here](https://github.com/TuleshGosai/Crud-Operation)
+- [License Agreement](https://github.com/TuleshGosai/Crud-Operation)
+- [Support](https://github.com/TuleshGosai/Crud-Operation)
 - Issues: [Github Issues Page](https://github.com/TuleshGosai/Crud-Operation/issues)
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Material Dashboard React. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Dashboard React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/material-dashboard-react-nodejs?ref=readme-mdr).
+1. Make sure that you are using the latest version of the Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://github.com/TuleshGosai/Crud-Operation).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-mdr) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](https://github.com/TuleshGosai/Crud-Operation) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-mdr)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-mdr)
-
-## Useful Links
-
-- [More products](https://www.creative-tim.com/templates?ref=readme-mdr) from Creative Tim
-
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-mdr) from Creative Tim
-
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-mdr) (earn money)
+- Crud Operation [license](https://github.com/TuleshGosai/Crud-Operation)
 
 ### Social Media
 
-### Creative Tim:
+Twitter: <https://github.com/TuleshGosai/Crud-Operation>
 
-Twitter: <https://twitter.com/CreativeTim?ref=mdl-readme>
+Facebook: <https://github.com/TuleshGosai/Crud-Operation>
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=mdl-readme>
-
-Dribbble: <https://dribbble.com/creativetim?ref=mdl-readme>
-
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=mdl-readme>
-
-### Updivision:
-
-Twitter: <https://twitter.com/updivision?ref=mdl-readme>
-
-Facebook: <https://www.facebook.com/updivision?ref=mdl-readme>
-
-Linkedin: <https://www.linkedin.com/company/updivision?ref=mdl-readme>
-
-Updivision Blog: <https://updivision.com/blog/?ref=mdl-readme>
+Instagram: <https://github.com/TuleshGosai/Crud-Operation>
 
 ## Credits
 
-- [Creative Tim](https://creative-tim.com/?ref=mdl-readme)
-- [UPDIVISION](https://updivision.com)
+- [Tulesh Gosai](https://github.com/TuleshGosai/Crud-Operation)
